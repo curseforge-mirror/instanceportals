@@ -1,0 +1,8 @@
+package-as: instanceportals
+
+ignore:
+  - .git
+  - .github
+  - README.md
+
+enable-nolib-creation: no
