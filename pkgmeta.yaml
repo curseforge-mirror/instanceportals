@@ -1,4 +1,4 @@
-package-as: instanceportals
+package-as: InstancePortals
 
 ignore:
   - .git
